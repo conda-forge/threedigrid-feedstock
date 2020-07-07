@@ -5,7 +5,7 @@ Home: https://github.com/nens/threedigrid
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Python package for the threedigrid administration
 

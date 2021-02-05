@@ -5,9 +5,13 @@ Home: https://github.com/nens/threedigrid
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/threedigrid-feedstock/blob/master/LICENSE.txt)
 
 Summary: Python package for the threedigrid administration
+
+Development: https://github.com/nens/threedigrid
+
+Documentation: https://threedigrid.readthedocs.io/
 
 Features: access to the threedicore administration by a single instance of
 the GridH5Admin object, query the model data by pre-defined subsets and django

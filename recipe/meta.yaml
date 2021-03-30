@@ -1,6 +1,6 @@
 {% set name = "threedigrid" %}
-{% set version = "1.0.24" %}
-{% set sha256 = "1a4ffbc750ebd0dc460e692ac322567efe5a3ab8c55ed7669ad1f249b7f3990c" %}
+{% set version = "1.1.1" %}
+{% set sha256 = "3d904a4c5d0a9a0f963bc29d9e970c7b2fc4fff16209957f0fdf7d1e41870faf" %}
 
 package:
   name: {{ name|lower }}
@@ -19,7 +19,7 @@ build:
     - 3digrid_export = threedigrid.management.commands.kick:export_to
 
 requirements:
-  build:
+  host:
     - python
     - pip
   run:

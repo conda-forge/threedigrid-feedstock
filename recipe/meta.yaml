@@ -1,6 +1,6 @@
 {% set name = "threedigrid" %}
-{% set version = "1.1.1" %}
-{% set sha256 = "3d904a4c5d0a9a0f963bc29d9e970c7b2fc4fff16209957f0fdf7d1e41870faf" %}
+{% set version = "1.1.2" %}
+{% set sha256 = "bbdad6b2624ae91967d8c511fb2849e3dc6d76322838e3d4f3ada9826350a4c1" %}
 
 package:
   name: {{ name|lower }}

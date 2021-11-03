@@ -128,6 +128,5 @@ Feedstock Maintainers
 * [@byrman](https://github.com/byrman/)
 * [@caspervdw](https://github.com/caspervdw/)
 * [@jpprins1](https://github.com/jpprins1/)
-* [@larsclaussen](https://github.com/larsclaussen/)
 * [@reinout](https://github.com/reinout/)
 
